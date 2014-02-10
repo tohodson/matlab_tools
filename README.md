@@ -1,4 +1,5 @@
 matlab_tools
 ============
 
-A collection of useful matlab tools
+A random collection of matlab tools that I've found useful in my research in Quaternary geology.
+
